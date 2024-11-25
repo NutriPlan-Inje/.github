@@ -26,8 +26,3 @@
 * 최경영 (팀원 - 백엔드, DevOps)
   * 서비스 서버 및 인프라, OpenAI 챗봇, 백엔드
 
-## 마일스톤
- <div align="left">
-  <img src="https://github.com/care-on/.github/assets/126179088/fbd248f6-0e95-4ddc-93c9-132c08d8b8311" alt="마일스톤" width="900px">
- </div>
-
